@@ -1,4 +1,4 @@
-# 4-dniowy Program Szkoleniowy React Native
+# 2-dniowy Program Szkoleniowy React Native
 
 ---
 
